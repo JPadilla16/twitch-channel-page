@@ -9,10 +9,10 @@
 		<h1>Data Design Project</h1>
 		</header>
 		<main>
-			<h3>Frontend</h3>
+			<h3>Frontend</h3><!-- Frontend Complete -->
 			<ul>
 				<li>The persona for a Twitch channel is gamers.</li>
-				<li>Case Use:I want to watch live gameplay of "DayZ"</li>
+				<li>Case Use: I want to watch live gameplay of "DayZ"</li>
 			</ul>
 			<ol start="0">
 				<li>I open up Google Chrome on my Macbook.</li>
