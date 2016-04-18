@@ -10,9 +10,10 @@
 		</header>
 		<main>
 			<h3>Frontend</h3>
-			The typical persona for a Twitch channel is gamers.
-			Case Use
-			Use:
+			<ol>
+				<li>The persona for a Twitch channel is gamers.</li>
+				<li>Case Use:I want to watch live gameplay of "DayZ"</li>
+			</ol>
 			<ol start="0">
 				<li>I open up Google Chrome on my Macbook.</li>
 				<li>Chrome loads up with cursor blinking in the address bar. </li>
