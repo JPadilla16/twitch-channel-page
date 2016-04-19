@@ -44,7 +44,7 @@
 				<li>Profile contains Avatar 1 to 1</li>
 				<li>Profile messages Profile m to n</li>
 				<li>Profile shares Profile m to n</li>
-				<li>Profile watches Content m to 1</li>
+				<li>Profile watches channel 1 to m</li>
 			</ul>
 		</main>
 		<footer>
